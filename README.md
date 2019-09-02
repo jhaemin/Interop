@@ -9,6 +9,10 @@ An open source font family for PAYW softwares and graphics based on Inter create
 
 Lighter weights will be added in the future.
 
+## Supporting Glyphs
+- Latin
+- Hangul(한글)
+
 ## License
 
 [SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)
