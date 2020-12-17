@@ -12,10 +12,6 @@ The open source font family for PAYW software and graphics which is composed of 
 - SemiBold (Bold in compatible version)
 - Bold (Black in compatible version)
 
-### Compatible Version (Newly included in v1.3)
-
-Since each language typography is designed separately by different vendors, some of the glyphs are not uniformly weighted. For example, Noto Sans KR Bold is lighter than the Inter's one. So we had to match Inter Bold with Noto Sans KR Black. And same happens for SemiBold. If you have to mix the PAYW Pro with other Hangul font families, you may need the compatible version.
-
 ### Supporting Glyphs
 
 - Latin
