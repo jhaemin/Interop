@@ -9,8 +9,8 @@ The open source font family for PAYW software and graphics which is composed of 
 - Light
 - Regular
 - Medium
-- SemiBold (Bold in compatible version)
-- Bold (Black in compatible version)
+- SemiBold
+- Bold
 
 ### Supporting Glyphs
 
