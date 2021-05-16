@@ -17,6 +17,8 @@ The open source font family for PAYW software and graphics which is composed of 
 - Latin
 - Hangul (한글)
 
+### [Web](./web)
+
 ### License
 
 [SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)
