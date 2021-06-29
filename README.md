@@ -1,8 +1,8 @@
-![payw-pro-banner](https://user-images.githubusercontent.com/19797697/79050808-71be6400-7c67-11ea-9a08-f4927d81a9d8.png)
+![payw-pro-banner](https://user-images.githubusercontent.com/19797697/123778892-8fc7c100-d90c-11eb-82b4-a17199f0264b.png)
 
-The open source font family for PAYW software and graphics which is composed of the Inter created by RSMS, and Noto Sans KR distributed by Google and [modified by jhaemin](https://github.com/jhaemin/noto-sans-kr). Its Latin and Hangul sans-serif glyphs harmonize each other so well giving the feelings of trustiness and robustness.
+The Consensus font family is a combination of the [Inter](https://github.com/rsms/inter) and the downscaled Noto Sans KR.
 
-### Weights
+**Weights**
 
 - Thin
 - Extra Light
@@ -12,13 +12,8 @@ The open source font family for PAYW software and graphics which is composed of 
 - SemiBold
 - Bold
 
-### Supporting Glyphs
+**[Web](./web)**
 
-- Latin
-- Hangul (한글)
-
-### [Web](./web)
-
-### License
+**License**
 
 [SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)

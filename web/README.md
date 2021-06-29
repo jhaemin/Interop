@@ -1,3 +1,3 @@
-# PAYW Pro for Web
+# Consensus for Web
 
-Copy and paste `fonts` and `payw-pro.css` to your public directory, then include `payw-pro.css` from your website.
+Copy and paste `fonts` and `consensus.css` to your public directory, then include `consensus.css` from your website.
