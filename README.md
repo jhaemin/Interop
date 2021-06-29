@@ -1,4 +1,6 @@
-![payw-pro-banner](https://user-images.githubusercontent.com/19797697/123778892-8fc7c100-d90c-11eb-82b4-a17199f0264b.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/19797697/123783108-f7800b00-d910-11eb-8127-683ba6651263.png" />
+</p>
 
 The Consensus font family is a combination of the [Inter](https://github.com/rsms/inter) and the downscaled Noto Sans KR.
 
