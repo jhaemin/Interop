@@ -10,6 +10,16 @@
 
 @font-face {
   font-family: 'Interop';
+  src: url('https://raw.githubusercontent.com/payw-org/Interop/main/web/fonts/Interop-ExtraBold.woff2')
+      format('woff2'),
+    url('https://raw.githubusercontent.com/payw-org/Interop/main/web/fonts/Interop-ExtraBold.woff')
+      format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Interop';
   src: url('https://raw.githubusercontent.com/payw-org/Interop/main/web/fonts/Interop-Bold.woff2')
       format('woff2'),
     url('https://raw.githubusercontent.com/payw-org/Interop/main/web/fonts/Interop-Bold.woff')

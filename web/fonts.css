@@ -8,6 +8,14 @@
 
 @font-face {
   font-family: 'Interop';
+  src: url('/fonts/Interop-ExtraBold.woff2') format('woff2'),
+    url('/fonts/Interop-ExtraBold.woff') format('woff');
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Interop';
   src: url('/fonts/Interop-Bold.woff2') format('woff2'),
     url('/fonts/Interop-Bold.woff') format('woff');
   font-weight: bold;
