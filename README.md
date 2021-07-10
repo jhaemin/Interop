@@ -1,21 +1,14 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/19797697/123783108-f7800b00-d910-11eb-8127-683ba6651263.png" />
+  <img width="380" src="https://user-images.githubusercontent.com/19797697/125155533-899ed380-e19b-11eb-9cd7-7f1236684128.png" />
 </p>
 
-The Consensus font family is a combination of the [Inter](https://github.com/rsms/inter) and the downscaled Noto Sans KR.
+The Interop font family is a combination of the [Inter](https://github.com/rsms/inter) and Noto Sans KR. Hangul glyphs are sensibly downscaled and the weights are elaborately adjusted. Since I'm not a professional font designer, I couldn't use instance generation provided by any font design software. Instead, I handcrafted all the weights one by one.
 
-**Weights**
+**Support eight weights**
 
-- Thin
-- Extra Light
-- Light
-- Regular
-- Medium
-- SemiBold
-- Bold
+| Thin | Extra Light | Light | Regular | Medium | SemiBold | Bold |
+| ---- | ----------- | ----- | ------- | ------ | -------- | ---- |
 
-**[Web](./web)**
-
-**License**
+[Using in web](./web)
 
 [SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)
