@@ -19,10 +19,6 @@ The Interop font family is a combination of the [Inter](https://github.com/rsms/
 
 [Using in web](./web)
 
-### License
-
-[SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)
-
 ### Showcase
 
 - https://www.jhaemin.com
@@ -31,3 +27,7 @@ The Interop font family is a combination of the [Inter](https://github.com/rsms/
 - https://saying.today
 - https://eodiro.com
 - https://where.land
+
+### License
+
+[SIL Open Font License](https://github.com/paywteam/payw-pro/blob/master/LICENSE)
