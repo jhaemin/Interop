@@ -15,7 +15,7 @@ The Interop font family is a combination of the [Inter](https://github.com/rsms/
 - Bold
 - ExtraBold
 
-### More
+### Guides
 
 [Using in web](./web)
 
